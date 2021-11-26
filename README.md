@@ -1,3 +1,3 @@
-# project-8b
+# sort-timer
 
 Each of the calls to the plot function plot a line.  The call to the show function displays the graph.  In the calls to the plot function, the first list is the list of x-coordinates (which is the same list for both curves you're plotting).  The second list is the list of y-coordinates.  The 'ro--' tells it to use red circles connected by a dashed line and 'go--' is the same except green instead of red.  The linewidth parameter is self-explanatory.  The xlabel and ylabel parameters set the labels for the x and y axes. For your graph, the x axis is the number of elements being sorted, and the y axis is the time in seconds.
